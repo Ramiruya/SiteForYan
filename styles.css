@@ -1,0 +1,70 @@
+body{
+        background-image: url('ebloki.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+button{
+        background: #FFA07A;
+        border : 2px dashed #FF6347;
+        padding: 8px 20px;
+        margin: 3px;
+        padding: 0.5px;
+        border-radius: 10px;
+        box-shadow: 1px 0 8px #8B0000;
+        transition: all 0.3s;
+        text-align: center;
+        font-weight: bold;
+        box-sizing: border-box;
+        width: 100px;
+    }
+button:hover{
+    background: skyblue;
+    cursor: pointer;
+    border-width: 4px;
+    padding: 6px;
+}
+
+block {
+        border-style:solid;
+        border-color:#FFFFF0;
+        border-width:1px;
+        border-radius:20px;
+        height: 500px;
+        weight: 300px;
+        margin:8px 16px;
+        background-color:#FFFFF0;
+        text-aligin: center;
+        font-family: Tahoma, Helvetika, sans-serif;
+        padding-top: 70px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+        
+        }
+buttonImg{
+        background-image:url("redelishes.jpg");
+        }
+
+a{
+        color: blue;
+        text-decoration: none;
+        cursor:pointer;
+}
+
+a:link{
+        color:blue;
+        text-decoration:none;
+}
+
+a:visited{
+        color:violet;
+        text-decoration:none;
+
+a:hover {
+        color:lightblue;
+        text-decotation-line:underline;
+}
+
+
+        
+
+        
